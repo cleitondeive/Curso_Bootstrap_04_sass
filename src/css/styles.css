@@ -1,3 +1,21 @@
-body {
-    background: #86ceeb;
+.carousel-caption {
+    position: absolute;
+    left: 0;
+    width: 50%;
+    top: 2%;
+    margin-left: 15%;
+    text-align: left;
+}
+
+.carousel-caption h3 {
+    font-size: 5em;
+    margin-top: 100px;
+}
+
+.btn-outline-primary {
+    color: white;
+    background-image: none;
+    background-color: transparent;
+    border-color: whitesmoke;
+    border-radius: 30px;
 }
